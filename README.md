@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Kush28
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I am a javascript enthusiast and Web is my playground.
 
-<!---
-Kush28/Kush28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I am a problem solver. I provide creative solution to complex problems.
+
+- I don’t like to define myself by the work I’ve done. I define myself by the work I want to do.
+
+
